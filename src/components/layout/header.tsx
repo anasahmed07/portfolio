@@ -5,7 +5,7 @@ import LocalClock from "../clock";
 
 export default function Header() {
   return (
-    <header className=" left-0 right-0 mx-auto max-w-5xl px-4 sm:px-6 flex justify-center sm:justify-between h-24 items-center">
+    <header className="left-0 right-0 mx-auto max-w-5xl px-4 sm:px-6 flex justify-center sm:justify-between h-24 items-center">
       <div className="hidden sm:flex items-center space-x-2 h-10 px-3 bg-cd-08 rounded-full border border-cd-13">
         <div className="h-2 w-2 rounded-full bg-green-500">
           <div className="relative animate-ping h-full w-full rounded-full bg-green-500 opacity-40"></div>
